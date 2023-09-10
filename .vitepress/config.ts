@@ -12,7 +12,7 @@ async function config() {
         {
           rel: "icon",
           type: "image/ico",
-          href: "kal.ico",
+          href: "kl.ico",
         },
       ],
       [
@@ -41,7 +41,7 @@ async function config() {
     lastUpdated: false,
     themeConfig: {
       // repo: dev.kimlor/home",
-      logo: "kal.ico",
+      logo: "kl.ico",
       docsDir: "/",
       // docsBranch: "master",
       posts: await getPosts(),
