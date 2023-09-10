@@ -7,9 +7,9 @@ sidebar: false
 features:
   - title: 👨‍💻 Status
     details: Currently Updating 
-  - title: 🛰️ 🏬 kal version 3.0
-    details: Notes, Upload, Updates, Archive available on my Github, my Facebook Page my Youtube and my website
+  - title: 🚀 @app v 3.0
+    details: Notes, Upload, Updates, Archive...
   - title: 🛰️ 🏬 Service Available , 💡 Tees
-    details: DM 
+    details: DM, Inquire
 ---
 

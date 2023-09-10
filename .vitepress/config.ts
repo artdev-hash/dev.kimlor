@@ -4,7 +4,7 @@ async function config() {
   return {
     base: '/dev.kimlor/',
     lang: "en-US",
-    title: "🚀 artdev-hash",
+    title: "👓 @kimlorenzoapp",
     logo: "kl.ico",
     description: "artdev-hash 3.0",
     head: [
@@ -66,7 +66,7 @@ async function config() {
           link: "/dev",
         },
         {
-          text: "👨‍💻 Works",
+          text: "📦 Works",
           link: "/work",
         }
       ],
