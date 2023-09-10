@@ -2,7 +2,7 @@ import { getPosts, getPostLength } from "./theme/serverUtils";
 
 async function config() {
   return {
-    base: 'https://www.lorenzokimarthur.com/',
+
     lang: "en-US",
     title: "👓 @kimlorenzoapp",
     logo: "kl.ico",
