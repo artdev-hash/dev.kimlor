@@ -2,7 +2,6 @@ import { getPosts, getPostLength } from "./theme/serverUtils";
 
 async function config() {
   return {
-    base: '/dev.kimlor/',
     lang: "en-US",
     title: " ",
     description: "artdev-hash 3.0",
@@ -41,6 +40,7 @@ async function config() {
     lastUpdated: false,
     themeConfig: {
       // repo: dev.kimlor/home",
+      base: '/dev.kimlor/',
       logo: "kal.ico",
       docsDir: "/",
       // docsBranch: "master",
