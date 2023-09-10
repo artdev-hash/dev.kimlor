@@ -4,7 +4,8 @@ async function config() {
   return {
     base: '/dev.kimlor/',
     lang: "en-US",
-    title: "kal",
+    title: "🚀 artdev-hash",
+    logo: "kl.ico",
     description: "artdev-hash 3.0",
     head: [
       [
