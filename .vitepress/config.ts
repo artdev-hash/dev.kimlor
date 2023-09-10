@@ -2,6 +2,7 @@ import { getPosts, getPostLength } from "./theme/serverUtils";
 
 async function config() {
   return {
+    base: '/dev.kimlor/',
     lang: "en-US",
     title: "👓 @kimlorenzoapp",
     logo: "kl.ico",
