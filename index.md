@@ -1,25 +1,15 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
-
-hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+date: 2023-05-01
+title: home
+sidebar: false
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 👨‍💻 artdev-hash version 3.0
+    details: Notes, Upload, Updates, Archive available on my Github, my Facebook Page my Youtube and my website
+  - title: 🛰️ 🏬 Service Available
+    details: IT services available 
+  - title: 💡 Tees
+    details: 
 ---
 
