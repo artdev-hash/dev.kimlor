@@ -1,9 +1,14 @@
 {
+  "name": "dev.kimlor",
+  "author": "artdev-hash <dev@lorenzokimarthur.com>",
   "scripts": {
     "homepage": "https://artdev-hash.github.io/dev.kimlor",
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview",
     "deploy": "sh deploy.sh"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.63"
   }
 }
