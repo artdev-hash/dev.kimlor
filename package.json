@@ -1,5 +1,6 @@
 {
   "scripts": {
+    "homepage": "https://artdev-hash.github.io/dev.kimlor",
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview",
