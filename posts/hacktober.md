@@ -7,5 +7,4 @@ tags:
 ---
 
 ## Hacktoberfest 2022 Badges
-
-[![@devguy05's Holopin board](https://holopin.io/api/user/board?user=devguy05)](https://holopin.io/@devguy05)
+<img src="./src/assets/img/hacktoberfest22.png" width="100%">
