@@ -6,10 +6,10 @@ sidebar: false
 
 features:
   - title: 👨‍💻 Status
-    details: Currently Updating 
+    details: Active, Freelance
   - title: 🚀 @app v 3.0
     details: Notes, Upload, Updates, Archive...
   - title: 🛰️ 🏬 Service Available , 💡 Tees
-    details: DM, Inquire
+    details: Direct Message, Inquire
 ---
 

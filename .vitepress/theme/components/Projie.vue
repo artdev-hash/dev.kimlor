@@ -3,6 +3,8 @@
     <div class="main">    
     <h1 class="about-header">👨‍💻 Works</h1><br>
     <code>Recent  💡  >></code><br>
+    <code>- hacktoberfest 23</code><br>
+    <code>- bicoltranslate</code><br>
     <code>- feedboard</code><br>
     <code>- lorenzokimarthur.com</code><br>
     <code>- Hacktoberfest 22</code><br>

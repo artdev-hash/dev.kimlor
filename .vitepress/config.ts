@@ -4,7 +4,7 @@ async function config() {
   return {
 
     lang: "en-US",
-    title: "👓 @kimlorenzoapp",
+    title: "👓",
     logo: "kl.ico",
     description: "artdev-hash 3.0",
     head: [

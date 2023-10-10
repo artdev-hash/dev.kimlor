@@ -1,5 +1,5 @@
 ---
-title: IT Services Available
+title: IT Support Available 
 description: Available / Freelancing
 date: 2023-06-25
 tags:
@@ -11,6 +11,8 @@ tags:
 ## List of Available Services Offered
 1. IT Support Consultations 
 2. Encoding / Typing / Email / Projects / Assignments
-3. Layout
-4. Fullstack Developer (Web Application)
-5. Software Plan / Design / Build
+3. Layouts
+4. AVP
+5. Fullstack Developer (Web Application) Project
+6. Software Plan / Design / Build
+7. ....more, inquire if available

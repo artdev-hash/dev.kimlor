@@ -1,5 +1,5 @@
 <template>
-  <div class="hero">Kim Lorenzo</div>
+  <div class="hero">@kimlorenzoapp</div>
 </template>
 
 <style scoped>
