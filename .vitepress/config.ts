@@ -43,9 +43,11 @@ async function config() {
     themeConfig: {
       // repo: dev.kimlor/home",
       logo: "kl.ico",
+
       search: {
         provider: "local",
       },
+      
       docsDir: "/",
       // docsBranch: "master",
       posts: await getPosts(),
