@@ -1,7 +1,7 @@
 <template>
   <footer>
     Powered by
-    <a href="https://github.com/artdev-hash/" target="_blank" title="artdev-hash"
+    <a href="https://www.buymeacoffee.com/kimdevprc" target="_blank" title="artdev-hash"
       >artdev-hash</a
     >
     | Copyright © 2022-{{ date }} | MIT License
