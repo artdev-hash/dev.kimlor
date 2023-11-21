@@ -1,6 +1,5 @@
 <template>
-  <div class="heroiimg"><img src="klorcover.png"></div>
-  <br>
+  <div class="hero">@kimlorenzoapp</div>
 </template>
 
 <style scoped>
