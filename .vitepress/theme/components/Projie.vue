@@ -4,8 +4,8 @@
     <h1 class="about-header">👨‍💻 Works</h1><br>
     <code>Recent  💡  >></code><br>
     <code>- hacktoberfest 23</code><br>
-    <code>- bicoltranslate</code><br>
-    <code>- feedboard</code><br>
+    <code>- <a href="https://artdev-hash.github.io/bicol_translate/" target="_blank" rel="noopener">bicoltranslate</code><br>
+    <code>- <a href="https://artdev-hash.github.io/octo-feedboard/" target="_blank" rel="noopener">feedboard</code><br>
     <code>- lorenzokimarthur.com</code><br>
     <code>- Hacktoberfest 22</code><br>
     <code>- <a href="https://devs.flutter.ph/" target="_blank" rel="noopener">DEVS</a></code> <br>

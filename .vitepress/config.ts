@@ -87,7 +87,6 @@ async function config() {
           link: "mailto:dev@lorenzokimarthur.com",
         },
       ],
-      // outline: 2, //设置右侧aside显示层级
       aside: false,
     }
   };
