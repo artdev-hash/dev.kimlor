@@ -13,7 +13,7 @@ tags:
 - feedboard
 - lorenzokimarthur.com
 - Hacktoberfest 22
-- [ Devs ](https://devs.flutter.ph/)
+- [ Flutter Devs ](https://devs.flutter.ph/)
 - SNAMEGENERATOR
 - 30 Days Flutter 21
 - KRPRT-OCTO-UPLOADER
