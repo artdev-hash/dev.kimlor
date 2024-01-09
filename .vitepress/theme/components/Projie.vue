@@ -25,8 +25,8 @@
     <h1 class="about-2ndhead">👨‍💻 Support My Actions by</h1><br>
     <code> * Sending Inspirational Messages 💌</code><br>
     <code> * Liking or Following My Pages:<br></code>
-    <code>  - YT <a href="https://www.youtube.com/channel/UCP2psTOak3Z60eQj1wq--cg">@kimlorenzo143</a></code><br>
-    <code>  - FB <a href="https://www.facebook.com/kimITservices">kimITservices</a></code><br>
+    <code>  - YT <a href="https://www.youtube.com/channel/UCP2psTOak3Z60eQj1wq--cg" target="_blank" rel="noopener">@kimlorenzo143</a></code><br>
+    <code>  - FB <a href="https://www.facebook.com/kimITservices" target="_blank" rel="noopener">kimITservices</a></code><br>
     <code> * <a href="https://www.buymeacoffee.com/kimdevprc" target="_blank" title="artdev-hash">BuyMeaCoffee ☕</a></code><br>
     <code> ** THANK YOU FOR YOUR SUPPORT ❤️ **</code>
     <br><br>
