@@ -10,6 +10,7 @@
     <code>- <a href="https://artdev-hash.github.io/octo-feedboard/" target="_blank" rel="noopener">OCTO-FEEDBOARD</a></code><br>
     <code>- <a href="https://lorenzokimarthur.com" target="_blank" rel="noopener">LORENZOKIMARTHUR.COM</a></code><br>
     <code>- Participation in HACKTOBER 22</code><br>
+    <code>- <a href="https://artdev-hash.github.io/biz-kal/" target="_blank" rel="noopener">BIZ-KAL</a></code><br>
     <code>- <a href="https://devs.flutter.ph/" target="_blank" rel="noopener">FLUTTER DEVS</a></code> <br>
     <code>- <a href="https://artdev-hash.github.io/snamegenerator/" target="_blank" rel="noopener">SNAMEGENERATOR</a></code><br>
     <code>- Participation in 30 Days Flutter 21</code><br>

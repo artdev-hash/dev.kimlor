@@ -15,4 +15,4 @@ tags:
 4. AVP
 5. Fullstack Developer (Web Application) Project
 6. Software Plan / Design / Build
-7. ....more, inquire if available
+7. ....more, inquire available to dev@lorenzokimarthur.com

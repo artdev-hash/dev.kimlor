@@ -13,6 +13,7 @@ tags:
 - feedboard
 - lorenzokimarthur.com
 - Hacktoberfest 22
+- Biz-Kal
 - [ Flutter Devs ](https://devs.flutter.ph/)
 - SNAMEGENERATOR
 - 30 Days Flutter 21
