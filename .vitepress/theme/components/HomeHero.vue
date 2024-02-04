@@ -1,5 +1,5 @@
 <template>
-  <div class="hero">@kimlorenzoapp</div>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=009F01&center=true&random=false&width=435&lines=github.com%2Fartdev-hash;facebook.com%2FkimITservices;YT%3A+%40kimlorenzo143" alt="Typing SVG" class="center" />
 </template>
 
 <style scoped>
@@ -17,5 +17,10 @@
   display: block;
   margin-top: auto;
   margin-bottom: auto;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 </style>
