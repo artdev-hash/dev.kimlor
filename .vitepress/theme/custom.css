@@ -15,7 +15,7 @@
     monospace;
 }
 .dark {
-  --vp-c-bg: #171c20;
+  --vp-c-bg: #13151d;
   --vp-c-text: white;
   --vp-c-hover: #ffffff;
   --vp-c-bg-alpha-with-backdrop: rgba(44, 54, 57, 0.7);
