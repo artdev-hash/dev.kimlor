@@ -55,23 +55,23 @@ async function config() {
       postLength: await getPostLength(),
       nav: [
         {
-          text: "🏠 Latest",
+          text: "<🏠 Latest />",
           link: "/",
         },
         {
-          text: "🔖 Section",
+          text: "<🔖 Section />",
           link: "/tags",
         },
         {
-          text: "📃 Archives",
+          text: "<📃 Archives />",
           link: "/archives",
         },
         {
-          text: "👨‍💻 Dev",
+          text: "<👨‍💻 Dev />",
           link: "/dev",
         },
         {
-          text: "📦 Works",
+          text: "<📦 Works />",
           link: "/work",
         }
       ],
