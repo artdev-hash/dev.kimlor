@@ -13,7 +13,7 @@ export function initTags(post: Post[]) {
   for (let i = 0; i < post.length; i++) {
     const element = post[i];
     const tags = element.frontMatter.tags;
-    // tags是数组，需要tags按照数组语法的格式书写
+    // tags
     if (Array.isArray(tags)) {
       tags.forEach((item) => {
         if (!data[item]) {
