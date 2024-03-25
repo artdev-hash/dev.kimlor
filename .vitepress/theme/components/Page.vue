@@ -1,6 +1,6 @@
 <template>
   <!--ShareCard /-->
-  <h1 class="blog-title">Posted Feed</h1>
+  <h1 class="blog-title">Feed Post</h1>
   <div class="blogList">
     <a class="blog" v-for="item in posts" :href="withBase(item.regularPath)">
       <div class="title">{{ item.frontMatter.title }}</div>
