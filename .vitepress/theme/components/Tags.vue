@@ -10,7 +10,7 @@
         :class="{ activetag: selectTag === key }"
       >
         {{ key }} <span class="tag-length">{{ data[key].length }}</span>
-      </span>
+      </span>&nbsp;&nbsp;
     </div>
 
     <h4 class="header" v-show="selectTag">

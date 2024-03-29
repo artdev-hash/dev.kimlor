@@ -26,8 +26,8 @@
     <div class="image"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"></div>
     <div class="image"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" width="40" height="40"></div>
     </div>
-    <br><br><br><br>
     </div>
+    <br><br><br><br>
 </template>
 
 <script lang="ts" setup>
