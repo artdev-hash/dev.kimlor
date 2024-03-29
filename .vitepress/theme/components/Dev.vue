@@ -27,7 +27,7 @@
     <div class="image"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" width="40" height="40"></div>
     </div>
     </div>
-    <br><br><br><br>
+    <br><br><br><br><br>
 </template>
 
 <script lang="ts" setup>

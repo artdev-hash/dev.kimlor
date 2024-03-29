@@ -3,7 +3,7 @@ title: Hacktoberfest 2023
 description: Badges
 date: 2023-10-01
 tags:
-  - Hacktoberfest10thyear
+  - Hacktober
 ---
 
 ## Hacktoberfest 2023 Badges

@@ -3,7 +3,7 @@ title: Hacktoberfest 2022
 description: Badges
 date: 2022-10-22
 tags:
-  - Hacktoberfest22
+  - Hacktober
 ---
 
 ## Hacktoberfest 2022 Badges
