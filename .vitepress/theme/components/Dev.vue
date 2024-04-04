@@ -23,7 +23,7 @@
     <div class="image"><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/appwrite/appwrite-original.svg" alt="appwrite" width="40" height="40"></div>
     <div class="image"><img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="cloudflare" width="40" height="40"></div>
     <div class="image"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"></div>
-    <div class="image"><img src="https://cdn.simpleicons.org//gnometerminal/dark" alt="bash" width="40" height="40"></div>
+    <div class="image"><img src="https://cdn.simpleicons.org//gnometerminal/green" alt="bash" width="40" height="40"></div>
     <div class="image"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" width="40" height="40"></div>
     </div>
     </div>
