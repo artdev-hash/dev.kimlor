@@ -16,7 +16,7 @@ footer {
   position: absolute;
   width: 100%;
   bottom: 20px;
-  padding: 0 30px;
+  padding: 0 40px;
   background: var(--vp-c-bg);
   color: var(--vp-c-text);
 }
