@@ -1,5 +1,5 @@
 ---
-title: First in 24
+title: First in 24 🖥️
 description: Couple of Days Ago
 date: 2024-01-13
 tags:

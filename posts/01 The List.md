@@ -1,5 +1,5 @@
 ---
-title: Portfolio Projects
+title: Portfolio Projects 💼
 description: Software and Website
 date: 2023-05-10
 tags:
