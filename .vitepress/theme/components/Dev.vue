@@ -38,8 +38,8 @@
     <div class="image"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualbasic/visualbasic-original.svg" alt="visualbasic.net" width="40" height="40"></div>
 
     </div>
+    <div class="foot"></div>
     </div>
-    <br><br><br><br><br>
 </template>
 
 <script lang="ts" setup>
@@ -58,7 +58,10 @@ const { Layout } = DefaultTheme;
   font-size: 2.25em;
   margin-top: 24px;
 }
-
+.foot{
+  margin-top: 200px;
+  margin-bottom: 200px;
+}
 .typewriter-effect > .text {
   max-width: 0;
   animation: typing 3s steps(var(--characters)) infinite;
