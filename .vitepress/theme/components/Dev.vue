@@ -3,7 +3,7 @@
     <div class="main">    
     <h1 class="about-header">👨‍💻 About Me</h1><br>
     <code><b>I'm an IT Specialist / Developer </b></code><br>
-    <code><b>Available and Open for Commissions<br><code><br>
+    <code><b>Available and Open for Commissions</b></code><br>
     <code><b>A Computer Science Graduate</b></code><br>
     <code><b>Passionate and Kind</b></code><br>
     <div class="typewriter-effect">
