@@ -1,5 +1,5 @@
 ---
-title: Freelance projects and jobs. 📌
+title: Open for Project Commissions and Job Offer Position. 📌
 description: Promoting
 date: 2024-03-20
 tags:

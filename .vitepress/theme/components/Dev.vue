@@ -3,10 +3,9 @@
     <div class="main">    
     <h1 class="about-header">👨‍💻 About Me</h1><br>
     <code><b>I'm an IT Specialist / Developer </b></code><br>
+    <code><b>Available and Open for Commissions<br>
     <code><b>A Computer Science Graduate</b></code><br>
-    <code><b>Freelance, IT CS related works at the moment</b></code><br>
-    <code><b>Very Open for Permanent Job Position, Projects, Assignments and Layout</b></code><br>
-    <code><b>Passionate to Learn new skills and knowledges</b></code><br>
+    <code><b>Passionate and Kind</b></code><br>
     <div class="typewriter-effect">
     <div class="text" id="typewriter-text"></div>
     <code><b>A Trustworthy person</b></code></div>
