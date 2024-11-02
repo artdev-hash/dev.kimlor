@@ -54,24 +54,29 @@ async function config() {
       pageSize: 4,
       postLength: await getPostLength(),
       nav: [
-        {
-          text: "<🏠 Latest />",
+        { 
+          text: "🏠 Home",
           link: "/",
         },
         {
-          text: "<🔖 Section />",
-          link: "/tags",
+          text: "🍉 Guide",
+          items: [
+            {
+              text: "🔖 Section",
+              link: "/tags",
+            },
+            {
+              text: "📃 Archives",
+              link: "/archives",
+            },
+          ]
         },
         {
-          text: "<📃 Archives />",
-          link: "/archives",
-        },
-        {
-          text: "<👨‍💻 Dev />",
+          text: "👨‍💻 I am Dev",
           link: "/dev",
         },
         {
-          text: "<📦 Works />",
+          text: "📦 Working On",
           link: "/work",
         }
       ],
