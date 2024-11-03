@@ -41,7 +41,7 @@ async function config() {
         provider: "local",
       },
       
-      docsDir: "/post",
+      docsDir: "/",
       // docsBranch: "master",
       posts: await getPosts(),
       pageSize: 4,
@@ -54,10 +54,10 @@ async function config() {
         {
           text: "🍉 Guide",
           items: [
-            {
-              text: "📃 Post",
-              link: "/post",
-            },
+            //{
+              //text: "📃 Post",
+              //link: "/post",
+            //},
             {
               text: "🔖 Section",
               link: "/tags",

@@ -4,7 +4,7 @@ import Tags from "./components/Tags.vue";
 import MyLayout from "./components/MyLayout.vue";
 import Dev from "./components/Dev.vue";
 import Work from "./components/Projie.vue";
-import Post from "./components/Post.vue";
+//import Post from "./components/Post.vue";
 import "./custom.css";
 
 export default {
@@ -18,6 +18,6 @@ export default {
     app.component("Tags", Tags);
     app.component("Dev", Dev);
     app.component("Work", Work);
-    app.component("Post", Post);
+    //app.component("Post", Post);
   },
 };
