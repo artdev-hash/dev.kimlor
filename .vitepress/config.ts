@@ -54,10 +54,6 @@ async function config() {
         {
           text: "🍉 Guide",
           items: [
-            //{
-              //text: "📃 Post",
-              //link: "/post",
-            //},
             {
               text: "🔖 Section",
               link: "/tags",
