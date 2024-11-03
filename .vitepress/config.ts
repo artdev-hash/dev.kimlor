@@ -26,15 +26,8 @@ async function config() {
       [
         "meta",
         {
-          property: "project:title",
-          content: "DocsDocs",
-        },
-      ],
-      [
-        "meta",
-        {
-          property: "project:description",
-          content: "Docs by Kim Arthur Lorenzo",
+          property: "portfolios",
+          content: "Post by Kim Arthur Lorenzo",
         },
       ],
     ],
@@ -48,7 +41,7 @@ async function config() {
         provider: "local",
       },
       
-      docsDir: "/",
+      docsDir: "/post",
       // docsBranch: "master",
       posts: await getPosts(),
       pageSize: 4,
@@ -62,11 +55,15 @@ async function config() {
           text: "🍉 Guide",
           items: [
             {
+              text: "📃 Post",
+              link: "/post",
+            },
+            {
               text: "🔖 Section",
               link: "/tags",
             },
             {
-              text: "📃 Archives",
+              text: "📑 Archives",
               link: "/archives",
             },
           ]
