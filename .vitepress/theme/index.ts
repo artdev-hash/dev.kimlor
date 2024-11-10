@@ -4,6 +4,7 @@ import Tags from "./components/Tags.vue";
 import MyLayout from "./components/MyLayout.vue";
 import Dev from "./components/Dev.vue";
 import Work from "./components/Projie.vue";
+import Done from "./components/Accomplished.vue";
 import "./custom.css";
 
 export default {
@@ -17,6 +18,7 @@ export default {
     app.component("Tags", Tags);
     app.component("Dev", Dev);
     app.component("Work", Work);
+    app.component("Done", Done);
 
   },
 };

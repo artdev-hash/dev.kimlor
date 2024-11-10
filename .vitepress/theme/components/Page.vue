@@ -124,7 +124,7 @@ const transDate = (date: string) => {
     default:
       month = `Month`;
   }
-  return `${month} ${day}, ${year}`;
+  return `${month} ${year}`;
 };
 </script>
 

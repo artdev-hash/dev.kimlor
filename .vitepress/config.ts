@@ -69,9 +69,19 @@ async function config() {
           link: "/dev",
         },
         {
-          text: "📦 Working On",
-          link: "/work",
+          text: "📦 FILES",
+          items: [
+            {
+              text: "🚢 Accomplished",
+              link: "/done",
+            },
+            {
+              text: "🚀 Working On",
+              link: "/work",
+            }
+          ]
         }
+        
       ],
       socialLinks: [
         { icon: "github", link: "https://github.com/artdev-hash" },

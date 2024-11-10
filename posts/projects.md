@@ -1,5 +1,5 @@
 ---
-title: Updated List of Projects 💻
+title: Currated List of Projects 💻
 description: Open Source and Works
 date: 2024-01-30
 tags:
@@ -8,19 +8,16 @@ tags:
   - awesome
 ---
 
-## Open Source / Projects
+## The List
 - [ M.K PRODUCTS ](https://m-k-products.github.io/store/)
 - [ ENGLISH TO TAGALOG ](https://artdev-hash.github.io/english-tagalog-vocab/)
 - [ PC UPGRADE AND REPAIR ](https://artdev-hash.github.io/pc-upgrade-and-repair/)
-- Hacktoberfest 23
 - [ BICOLTRANSLATE ](https://artdev-hash.github.io/bicol_translate/)
 - [ OCTOFEEDBOARD ](https://artdev-hash.github.io/octo-feedboard/)
 - [ LORENZOKIMARTHUR.COM ](https://lorenzokimarthur.com)
-- Hacktoberfest 22
 - [ BIZ-KAL ](https://artdev-hash.github.io/biz-kal/)
 - [ FLUTTER DEVS ](https://devs.flutter.ph/)
 - [ SNAMEGENERATOR ](https://artdev-hash.github.io/snamegenerator/)
-- 30 Days Flutter 21
 - [ KRPRT-OCTO-UPLOADER ](https://artdev-hash.github.io/krprt-octo-uploader/)
 - [ KSHARED-NOCTO-COPIER ](https://artdev-hash.github.io/kshared-nocto-copier/)
 - PLANBANK website
