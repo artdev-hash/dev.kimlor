@@ -9,9 +9,6 @@
     <code>- <a href="https://artdev-hash.github.io/english-tagalog-vocab/" target="_blank" rel="noopener">ENGLISH TAGALOG VOCAB</a></code><br>
     <code>- <a href="https://artdev-hash.github.io/pc-upgrade-and-repair/" target="_blank" rel="noopener">PC UPGRADE AND REPAIR</a></code><br>
     <code>- <a href="https://artdev-hash.github.io/bicol_translate/" target="_blank" rel="noopener">BICOL TRANSLATE</a></code><br>
-    <code>- <a href="https://artdev-hash.github.io/octo-feedboard/" target="_blank" rel="noopener">OCTO-FEEDBOARD</a></code><br>
-    <code>- <a href="https://lorenzokimarthur.com" target="_blank" rel="noopener">LORENZOKIMARTHUR.COM</a></code><br>
-    <code>- <a href="https://artdev-hash.github.io/biz-kal/" target="_blank" rel="noopener">BIZ-KAL</a></code><br>
     <br>
 
     <h1 class="about-2ndhead">👨‍💻 Support My Actions by</h1><br>

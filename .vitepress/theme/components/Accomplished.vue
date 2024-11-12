@@ -9,6 +9,9 @@
     <code>- A member of PICSPRO</code><br>
     <code>- <a href="https://m-k-products.github.io/store/" target="_blank" rel="noopener">M.K PRODUCTS</a></code><br>
     <code>- Participated on HACKTOBER 23</code><br>
+    <code>- <a href="https://lorenzokimarthur.com" target="_blank" rel="noopener">LORENZOKIMARTHUR.COM</a></code><br>
+    <code>- Template <a href="https://artdev-hash.github.io/octo-feedboard/" target="_blank" rel="noopener">OCTO-FEEDBOARD</a></code><br>
+    <code>- Profile <a href="https://artdev-hash.github.io/biz-kal/" target="_blank" rel="noopener">BIZ-KAL</a></code><br>
     <code>- Tree Planting Certificate</code><br>
     <code>- Completed HACKTOBER 22</code><br>
     <code>- Contributed to <a href="https://devs.flutter.ph/" target="_blank" rel="noopener">FLUTTER DEVS</a></code> <br>
