@@ -34,7 +34,7 @@ async function config() {
     // cleanUrls: "with-subfolders",
     lastUpdated: false,
     themeConfig: {
-      // repo: dev.kimlor/home",
+     repo: dev.kimlor/home",
       logo: "kl.ico",
 
       search: {
